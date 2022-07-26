@@ -1,5 +1,3 @@
-# Trimming-White-Spaces-In-Between-Texts
-
 ## Problem Statement
 
 If you are used to using `TRIM()` in other programming languages, such as Microsoft Excel or Google Sheets, you will realise that `TRIM()` in deluge only trims off the leading, or trailing spaces given any texts.
@@ -92,3 +90,5 @@ Printing `validText` after the loop executes, you should get the results of:
 - `My Little Pony`
 - `My favourite eyeglasses`
 - `My favourite NBA player`
+
+And you’re done, you data cleaning wizard you! 🎉🧙
